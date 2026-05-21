@@ -1,0 +1,25 @@
+{
+  "name": "agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.32.1",
+    "@langchain/core": "^1.1.47",
+    "@oobe-protocol-labs/synapse-client-sdk": "^2.0.6",
+    "@oobe-protocol-labs/synapse-sap-sdk": "^0.17.0",
+    "@solana/web3.js": "^1.98.4",
+    "axios": "^1.16.1",
+    "bs58": "^6.0.0",
+    "dotenv": "^17.4.2",
+    "langchain": "^1.4.1",
+    "zod": "^4.4.3"
+  }
+}
